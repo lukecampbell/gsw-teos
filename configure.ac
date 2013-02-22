@@ -5,7 +5,7 @@ AC_PREREQ(2.61)
 AC_INIT(TEOS-10, 3.0, BUG-REPORT-ADDRESS)
 LT_INIT([disable-static])
 AM_INIT_AUTOMAKE(TEOS-10, 3.0)
-AC_OUTPUT(Makefile src/Makefile include/Makefile)
+AC_OUTPUT(Makefile src/Makefile)
 AC_CONFIG_SRCDIR([include/gswteos-10.h])
 AC_CONFIG_HEADER([config.h])
 
