@@ -11,6 +11,6 @@ bin_PROGRAMS = gsw_check_functions
 
 gsw_check_functions_SOURCES = gsw_check_functions.c 
 gsw_check_functions_DEPENDENCIES = libgswteos-10.la
-gsw_check_functions_LDFLAGS=-lgswteos-10
+gsw_check_functions_LDFLAGS=-lgswteos-10 -lm
 
 include_HEADERS=../include/gswteos-10.h
