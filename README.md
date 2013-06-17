@@ -34,9 +34,9 @@ supplied header file:
 
 ## Change Log
 
-2013-04-14: Forked by Luke Campbell, Added automake build
-2012-10-07:	gsw-3.0.1 New gsw_check_functions.c based on revised f90.
-2011-09-23:	gsw-3.0 Initial creation.
+        2013-04-14: Forked by Luke Campbell, Added automake build
+        2012-10-07:	gsw-3.0.1 New gsw_check_functions.c based on revised f90.
+        2011-09-23:	gsw-3.0 Initial creation.
 
 ## Installation
 
@@ -53,13 +53,18 @@ supplied header file:
         sudo ln -s /usr/local/libgswteos-10/lib/libgswteos-10.so /usr/local/lib/
         sudo ln -s /usr/local/libgswteos-10/include/gswteos-10.h /usr/local/include/
 
+## Contacts
 
-Luke Campbell <lcampbell@asascience.com>
+        Luke Campbell <lcampbell at asascience dot com>
+        Software Engineer
+        Ocean Observatories Initiative, Cyber Infrastructure
+        Data Management
+        
 
 
-Frank Delahoyde <fdelahoyde@ucsd.edu>
-Shipboard Technical Support, Computing Resources <sts-cr@ucsd.edu>
-Scripps Institution of Oceanography
-Nimitz Marine Facility, Point Loma
-San Diego, Ca. 92106-3505
+        Frank Delahoyde <fdelahoyde at ucsd dot edu>
+        Shipboard Technical Support, Computing Resources <sts-cr@ucsd.edu>
+        Scripps Institution of Oceanography
+        Nimitz Marine Facility, Point Loma
+        San Diego, Ca. 92106-3505
 
